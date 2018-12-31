@@ -1,4 +1,4 @@
-package io.mjimenez.results.advent6
+package io.mjimenez.aoc2018.advent6
 
 import java.io.File
 

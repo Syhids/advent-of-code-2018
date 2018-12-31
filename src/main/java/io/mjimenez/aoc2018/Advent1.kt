@@ -1,4 +1,4 @@
-package io.mjimenez.results
+package io.mjimenez.aoc2018
 
 import java.io.File
 
