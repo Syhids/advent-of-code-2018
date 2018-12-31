@@ -1,4 +1,4 @@
-package io.mjimenez.aoc2018
+package io.mjimenez.aoc2018.day1
 
 import java.io.File
 
